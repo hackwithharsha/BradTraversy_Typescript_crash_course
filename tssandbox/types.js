@@ -1,0 +1,30 @@
+var myString;
+var myNumber;
+var myBoolean;
+var myVar;
+/*
+let strArr: string[];
+let numArr: number[];
+let boolArr: boolean[];
+*/
+var strArr;
+var numArr;
+var boolArr;
+var strNumTuple;
+myString = 'Hello, World';
+myNumber = 22;
+myBoolean = true;
+myVar = 'Hello';
+strArr = ['Harsha', 'Manish', 'Rakesh'];
+numArr = [1, 2, 3];
+boolArr = [true, false, true];
+strNumTuple = ['Hello', 4];
+var myvoid = undefined;
+var mynull = null;
+var myundefined = null;
+console.log(myvoid);
+console.log(myString);
+console.log(myNumber);
+console.log(myBoolean);
+console.log(myVar);
+console.log(strArr);
